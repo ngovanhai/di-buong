@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IVIRSE</string>
+    <string name="default_notification_channel_id">isofh-channel</string>
+    <string name="ak_client_token">a9ae7d8852eab508b86896d5cd375999</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+	<string moduleConfig="true" name="CodePushDeploymentKey">1g4kRaVWWJcxLwXEu7wlMOQliDI4rNdpbZmcO</string>
+</resources>

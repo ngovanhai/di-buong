@@ -1,0 +1,6 @@
+android/.gradle
+android/.idea
+android/app/.idea
+android/app/build
+node_modules
+yarn.lock
